@@ -1,6 +1,6 @@
 {
  "version": 1,
- "exported_at": "2026-09-02T04:34:13",
+ "exported_at": "2026-09-02T04:35:03",
  "sessions": [
   {
    "name": "123",
@@ -117,6 +117,192 @@
       },
       {
        "rank": 10,
+       "raw_text": "가해자 처벌"
+      }
+     ]
+    },
+    {
+     "student_token": "851b84c0-a2b1-4c78-96ea-b10efb90c817",
+     "submitted_at": "2026-09-02T04:34:30",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "상처"
+      },
+      {
+       "rank": 2,
+       "raw_text": "여자"
+      },
+      {
+       "rank": 3,
+       "raw_text": "노인"
+      },
+      {
+       "rank": 4,
+       "raw_text": "저소득층"
+      },
+      {
+       "rank": 5,
+       "raw_text": "연약함"
+      },
+      {
+       "rank": 6,
+       "raw_text": "무지"
+      },
+      {
+       "rank": 7,
+       "raw_text": "가스라이팅"
+      },
+      {
+       "rank": 8,
+       "raw_text": "눈물"
+      },
+      {
+       "rank": 9,
+       "raw_text": "반복"
+      },
+      {
+       "rank": 10,
+       "raw_text": "어린이"
+      }
+     ]
+    },
+    {
+     "student_token": "8b00fc36-d1d4-4b6f-85ba-2dd0a4b3fc45",
+     "submitted_at": "2026-09-02T04:34:37",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "불쌍함"
+      },
+      {
+       "rank": 2,
+       "raw_text": "안타까움"
+      },
+      {
+       "rank": 3,
+       "raw_text": "정말 피해자인가"
+      },
+      {
+       "rank": 4,
+       "raw_text": "무슨 피해를 입었을까"
+      },
+      {
+       "rank": 5,
+       "raw_text": "가해자는 왜 그랬을까"
+      }
+     ]
+    },
+    {
+     "student_token": "9ac10992-05fb-4788-a13d-909a3f73c2a0",
+     "submitted_at": "2026-09-02T04:34:40",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "무기력"
+      },
+      {
+       "rank": 2,
+       "raw_text": "두려움"
+      },
+      {
+       "rank": 3,
+       "raw_text": "억울함"
+      },
+      {
+       "rank": 4,
+       "raw_text": "고통"
+      },
+      {
+       "rank": 5,
+       "raw_text": "피해자 가족"
+      },
+      {
+       "rank": 6,
+       "raw_text": "법"
+      },
+      {
+       "rank": 7,
+       "raw_text": "상해"
+      },
+      {
+       "rank": 8,
+       "raw_text": "눈물"
+      },
+      {
+       "rank": 9,
+       "raw_text": "상처"
+      },
+      {
+       "rank": 10,
+       "raw_text": "무능"
+      }
+     ]
+    },
+    {
+     "student_token": "d3b0a852-3fb5-41d1-b69d-ca781b9a7390",
+     "submitted_at": "2026-09-02T04:34:47",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "슬픔"
+      },
+      {
+       "rank": 2,
+       "raw_text": "고문"
+      },
+      {
+       "rank": 3,
+       "raw_text": "여성"
+      },
+      {
+       "rank": 4,
+       "raw_text": "유가족"
+      },
+      {
+       "rank": 5,
+       "raw_text": "스마트워치"
+      },
+      {
+       "rank": 6,
+       "raw_text": "보상"
+      },
+      {
+       "rank": 7,
+       "raw_text": "보호"
+      },
+      {
+       "rank": 8,
+       "raw_text": "약자"
+      },
+      {
+       "rank": 9,
+       "raw_text": "112"
+      }
+     ]
+    },
+    {
+     "student_token": "61cf4d19-e716-4368-bbcc-b16fe6ce0ce5",
+     "submitted_at": "2026-09-02T04:34:48",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "폭행"
+      },
+      {
+       "rank": 2,
+       "raw_text": "안타까움"
+      },
+      {
+       "rank": 3,
+       "raw_text": "회복"
+      },
+      {
+       "rank": 4,
+       "raw_text": "마음이 아프다"
+      },
+      {
+       "rank": 5,
        "raw_text": "가해자 처벌"
       }
      ]
