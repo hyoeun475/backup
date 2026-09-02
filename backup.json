@@ -1,6 +1,6 @@
 {
  "version": 1,
- "exported_at": "2026-09-02T04:35:32",
+ "exported_at": "2026-09-02T04:36:16",
  "sessions": [
   {
    "name": "123",
@@ -442,6 +442,124 @@
       {
        "rank": 10,
        "raw_text": "허탈함"
+      }
+     ]
+    },
+    {
+     "student_token": "42f47562-b12a-4f7c-ae88-6bee72f0a131",
+     "submitted_at": "2026-09-02T04:35:43",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "2차피해"
+      },
+      {
+       "rank": 2,
+       "raw_text": "피해자화"
+      },
+      {
+       "rank": 3,
+       "raw_text": "취약성"
+      },
+      {
+       "rank": 4,
+       "raw_text": "PTSD"
+      },
+      {
+       "rank": 5,
+       "raw_text": "취약성"
+      }
+     ]
+    },
+    {
+     "student_token": "6c36eb88-034f-465b-9be3-84042fa2f945",
+     "submitted_at": "2026-09-02T04:35:50",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "피해를 받는 사람"
+      },
+      {
+       "rank": 2,
+       "raw_text": "도움이 필요한 사람"
+      },
+      {
+       "rank": 3,
+       "raw_text": "112신고"
+      },
+      {
+       "rank": 4,
+       "raw_text": "스마트워치"
+      },
+      {
+       "rank": 5,
+       "raw_text": "임시숙소"
+      },
+      {
+       "rank": 6,
+       "raw_text": "교제폭력"
+      },
+      {
+       "rank": 7,
+       "raw_text": "가정폭력"
+      },
+      {
+       "rank": 8,
+       "raw_text": "아동학대"
+      },
+      {
+       "rank": 9,
+       "raw_text": "성폭력"
+      },
+      {
+       "rank": 10,
+       "raw_text": "인신매매피해자보호법"
+      }
+     ]
+    },
+    {
+     "student_token": "27514f36-67a9-45ec-bd88-036dd0d23e1f",
+     "submitted_at": "2026-09-02T04:36:01",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 2,
+       "raw_text": "보호"
+      },
+      {
+       "rank": 3,
+       "raw_text": "치료"
+      },
+      {
+       "rank": 4,
+       "raw_text": "2차피해"
+      },
+      {
+       "rank": 5,
+       "raw_text": "범죄"
+      },
+      {
+       "rank": 6,
+       "raw_text": "진술"
+      },
+      {
+       "rank": 7,
+       "raw_text": "슬픔"
+      },
+      {
+       "rank": 8,
+       "raw_text": "보이스피싱 피해자"
+      },
+      {
+       "rank": 9,
+       "raw_text": "신고"
+      },
+      {
+       "rank": 10,
+       "raw_text": "사각지대"
       }
      ]
     }
