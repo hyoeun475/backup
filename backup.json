@@ -1,6 +1,6 @@
 {
  "version": 1,
- "exported_at": "2026-09-02T00:30:25",
+ "exported_at": "2026-09-02T00:31:09",
  "sessions": [
   {
    "name": "수업",
@@ -438,6 +438,66 @@
       {
        "rank": 10,
        "raw_text": "제도"
+      }
+     ]
+    },
+    {
+     "student_token": "6cfa3211-816d-4f53-9102-21fd1cffc392",
+     "submitted_at": "2026-09-02T00:30:48",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "피해"
+      },
+      {
+       "rank": 2,
+       "raw_text": "범죄"
+      },
+      {
+       "rank": 3,
+       "raw_text": "약자"
+      },
+      {
+       "rank": 4,
+       "raw_text": "노인"
+      },
+      {
+       "rank": 5,
+       "raw_text": "사각지대"
+      },
+      {
+       "rank": 6,
+       "raw_text": "2차 피해"
+      },
+      {
+       "rank": 7,
+       "raw_text": "가정폭력"
+      }
+     ]
+    },
+    {
+     "student_token": "aa6650b9-34a5-4b33-9b62-e3b1b3808055",
+     "submitted_at": "2026-09-02T00:30:54",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "범죄"
+      },
+      {
+       "rank": 2,
+       "raw_text": "보호"
+      },
+      {
+       "rank": 3,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 4,
+       "raw_text": "사기"
+      },
+      {
+       "rank": 5,
+       "raw_text": "성범죄"
       }
      ]
     }
