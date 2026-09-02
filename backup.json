@@ -1,6 +1,6 @@
 {
  "version": 1,
- "exported_at": "2026-09-02T04:36:16",
+ "exported_at": "2026-09-02T04:36:45",
  "sessions": [
   {
    "name": "123",
@@ -560,6 +560,98 @@
       {
        "rank": 10,
        "raw_text": "사각지대"
+      }
+     ]
+    },
+    {
+     "student_token": "e79ff399-7fa6-47c2-8667-4839e02f161b",
+     "submitted_at": "2026-09-02T04:36:19",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "스토킹"
+      },
+      {
+       "rank": 2,
+       "raw_text": "경찰"
+      },
+      {
+       "rank": 3,
+       "raw_text": "인신매매"
+      },
+      {
+       "rank": 4,
+       "raw_text": "성폭력"
+      },
+      {
+       "rank": 5,
+       "raw_text": "강력범죄"
+      },
+      {
+       "rank": 6,
+       "raw_text": "소액사기"
+      },
+      {
+       "rank": 7,
+       "raw_text": "연민"
+      },
+      {
+       "rank": 8,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 9,
+       "raw_text": "접근금지명령"
+      },
+      {
+       "rank": 10,
+       "raw_text": "언론"
+      }
+     ]
+    },
+    {
+     "student_token": "8d394854-93b6-4a99-b499-8f3906649b26",
+     "submitted_at": "2026-09-02T04:36:30",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "성폭력"
+      },
+      {
+       "rank": 2,
+       "raw_text": "2차피해"
+      },
+      {
+       "rank": 3,
+       "raw_text": "여성"
+      },
+      {
+       "rank": 4,
+       "raw_text": "보호"
+      },
+      {
+       "rank": 5,
+       "raw_text": "지원"
+      },
+      {
+       "rank": 6,
+       "raw_text": "피해자안전조치"
+      },
+      {
+       "rank": 7,
+       "raw_text": "피해자임시숙소"
+      },
+      {
+       "rank": 8,
+       "raw_text": "가해자처벌"
+      },
+      {
+       "rank": 9,
+       "raw_text": "실체적 진실"
+      },
+      {
+       "rank": 10,
+       "raw_text": "진술조력"
       }
      ]
     }
