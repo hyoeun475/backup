@@ -1,6 +1,6 @@
 {
  "version": 1,
- "exported_at": "2026-09-02T04:35:03",
+ "exported_at": "2026-09-02T04:35:32",
  "sessions": [
   {
    "name": "123",
@@ -304,6 +304,144 @@
       {
        "rank": 5,
        "raw_text": "가해자 처벌"
+      }
+     ]
+    },
+    {
+     "student_token": "e7929af8-a6a9-4af4-9ca6-f122cc3a7e6c",
+     "submitted_at": "2026-09-02T04:35:05",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "2차 피해"
+      },
+      {
+       "rank": 2,
+       "raw_text": "가해자 피해자 분리"
+      },
+      {
+       "rank": 3,
+       "raw_text": "범피센터"
+      },
+      {
+       "rank": 4,
+       "raw_text": "피해자 보호"
+      },
+      {
+       "rank": 5,
+       "raw_text": "불분명한 가/피해자의 경계선"
+      },
+      {
+       "rank": 6,
+       "raw_text": "가정폭력"
+      },
+      {
+       "rank": 7,
+       "raw_text": "성폭력"
+      },
+      {
+       "rank": 8,
+       "raw_text": "처벌"
+      },
+      {
+       "rank": 9,
+       "raw_text": "피해자다움"
+      },
+      {
+       "rank": 10,
+       "raw_text": "피해자 가족"
+      }
+     ]
+    },
+    {
+     "student_token": "12a530fe-8081-4c3c-aab2-b93b9d9d3438",
+     "submitted_at": "2026-09-02T04:35:08",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "낙인"
+      },
+      {
+       "rank": 2,
+       "raw_text": "트라우마"
+      },
+      {
+       "rank": 3,
+       "raw_text": "약자"
+      },
+      {
+       "rank": 4,
+       "raw_text": "상처"
+      },
+      {
+       "rank": 5,
+       "raw_text": "눈물"
+      },
+      {
+       "rank": 6,
+       "raw_text": "범죄"
+      },
+      {
+       "rank": 7,
+       "raw_text": "보호"
+      },
+      {
+       "rank": 8,
+       "raw_text": "어려움"
+      },
+      {
+       "rank": 9,
+       "raw_text": "경찰"
+      },
+      {
+       "rank": 10,
+       "raw_text": "손해"
+      }
+     ]
+    },
+    {
+     "student_token": "6d39da6e-c31f-41a2-aaa6-2861c92dd1e9",
+     "submitted_at": "2026-09-02T04:35:17",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "도움"
+      },
+      {
+       "rank": 2,
+       "raw_text": "억울함"
+      },
+      {
+       "rank": 3,
+       "raw_text": "슬픔"
+      },
+      {
+       "rank": 4,
+       "raw_text": "고통"
+      },
+      {
+       "rank": 5,
+       "raw_text": "불운"
+      },
+      {
+       "rank": 6,
+       "raw_text": "무력함"
+      },
+      {
+       "rank": 7,
+       "raw_text": "누구나 될 수 있음"
+      },
+      {
+       "rank": 8,
+       "raw_text": "분노"
+      },
+      {
+       "rank": 9,
+       "raw_text": "왜 나에게 이런일이"
+      },
+      {
+       "rank": 10,
+       "raw_text": "허탈함"
       }
      ]
     }
