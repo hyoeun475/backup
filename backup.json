@@ -1,23 +1,207 @@
 {
  "version": 1,
- "exported_at": "2026-09-01T15:26:38",
+ "exported_at": "2026-09-02T00:30:25",
  "sessions": [
   {
-   "name": "리허설",
-   "created_at": "2026-09-01T15:26:20",
+   "name": "수업",
+   "created_at": "2026-09-02T00:29:38",
    "is_active": 1,
    "submissions": [
     {
-     "student_token": "cd192a62-d936-494a-a76d-ad7dd86693dc",
-     "submitted_at": "2026-09-01T15:26:23",
+     "student_token": "6af2528a-bd1c-4c89-9c18-d069c101295d",
+     "submitted_at": "2026-09-02T00:29:44",
      "keywords": [
       {
        "rank": 1,
-       "raw_text": "경찰"
+       "raw_text": "약자"
       },
       {
        "rank": 2,
+       "raw_text": "강도"
+      },
+      {
+       "rank": 3,
+       "raw_text": "연민"
+      },
+      {
+       "rank": 4,
+       "raw_text": "상처"
+      },
+      {
+       "rank": 5,
+       "raw_text": "비련"
+      },
+      {
+       "rank": 6,
+       "raw_text": "증인"
+      },
+      {
+       "rank": 7,
+       "raw_text": "우울"
+      },
+      {
+       "rank": 8,
+       "raw_text": "피해의식"
+      },
+      {
+       "rank": 9,
+       "raw_text": "혼란"
+      },
+      {
+       "rank": 10,
+       "raw_text": "죽음"
+      }
+     ]
+    },
+    {
+     "student_token": "dc743aee-c251-403a-b88a-0d03f78da66e",
+     "submitted_at": "2026-09-02T00:29:45",
+     "keywords": [
+      {
+       "rank": 1,
        "raw_text": "범죄"
+      },
+      {
+       "rank": 2,
+       "raw_text": "방어권"
+      },
+      {
+       "rank": 3,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 4,
+       "raw_text": "보복"
+      },
+      {
+       "rank": 5,
+       "raw_text": "공판진술권"
+      },
+      {
+       "rank": 6,
+       "raw_text": "2차 가해"
+      },
+      {
+       "rank": 7,
+       "raw_text": "신상공개"
+      },
+      {
+       "rank": 8,
+       "raw_text": "부산 돌려차기 피해자"
+      },
+      {
+       "rank": 9,
+       "raw_text": "여성/시민단체의 정치적 이용"
+      },
+      {
+       "rank": 10,
+       "raw_text": "잠정조치"
+      }
+     ]
+    },
+    {
+     "student_token": "5f473899-3937-408b-9cfc-9d465efbae72",
+     "submitted_at": "2026-09-02T00:29:45",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 2,
+       "raw_text": "경찰"
+      },
+      {
+       "rank": 3,
+       "raw_text": "고통"
+      },
+      {
+       "rank": 4,
+       "raw_text": "2차 피해"
+      },
+      {
+       "rank": 5,
+       "raw_text": "고소"
+      },
+      {
+       "rank": 6,
+       "raw_text": "고발"
+      },
+      {
+       "rank": 7,
+       "raw_text": "PTSD"
+      },
+      {
+       "rank": 8,
+       "raw_text": "피해자보호제도"
+      },
+      {
+       "rank": 9,
+       "raw_text": "신변보호"
+      },
+      {
+       "rank": 10,
+       "raw_text": "변호사"
+      }
+     ]
+    },
+    {
+     "student_token": "a27a573b-c291-4d41-9ccf-891fb8871601",
+     "submitted_at": "2026-09-02T00:29:46",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "습격"
+      },
+      {
+       "rank": 2,
+       "raw_text": "슬픔"
+      },
+      {
+       "rank": 3,
+       "raw_text": "보듬어주기"
+      },
+      {
+       "rank": 4,
+       "raw_text": "당황"
+      },
+      {
+       "rank": 5,
+       "raw_text": "폭력"
+      },
+      {
+       "rank": 6,
+       "raw_text": "서러움"
+      },
+      {
+       "rank": 7,
+       "raw_text": "쓸쓸함"
+      },
+      {
+       "rank": 8,
+       "raw_text": "케어"
+      },
+      {
+       "rank": 9,
+       "raw_text": "쓰담쓰담"
+      },
+      {
+       "rank": 10,
+       "raw_text": "억울"
+      }
+     ]
+    },
+    {
+     "student_token": "5076ef57-41b6-4efc-bb37-12839ee4ff04",
+     "submitted_at": "2026-09-02T00:29:50",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "성범죄"
+      },
+      {
+       "rank": 2,
+       "raw_text": "폭행"
       },
       {
        "rank": 3,
@@ -25,11 +209,235 @@
       },
       {
        "rank": 4,
+       "raw_text": "경찰"
+      },
+      {
+       "rank": 5,
+       "raw_text": "보복"
+      },
+      {
+       "rank": 6,
+       "raw_text": "골목"
+      },
+      {
+       "rank": 7,
+       "raw_text": "밤"
+      },
+      {
+       "rank": 8,
+       "raw_text": "아동"
+      }
+     ]
+    },
+    {
+     "student_token": "d9bad87c-ecfc-480e-807d-c1035713f68b",
+     "submitted_at": "2026-09-02T00:29:54",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "고통"
+      },
+      {
+       "rank": 2,
+       "raw_text": "2차가해"
+      },
+      {
+       "rank": 3,
+       "raw_text": "트라우마"
+      },
+      {
+       "rank": 4,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 5,
+       "raw_text": "두려움"
+      },
+      {
+       "rank": 6,
+       "raw_text": "보호"
+      }
+     ]
+    },
+    {
+     "student_token": "b5d1c2f7-52ff-436d-ade1-5a524ae8c1e1",
+     "submitted_at": "2026-09-02T00:29:57",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "두려움"
+      },
+      {
+       "rank": 2,
+       "raw_text": "상처"
+      },
+      {
+       "rank": 3,
+       "raw_text": "무력감"
+      },
+      {
+       "rank": 4,
+       "raw_text": "구조"
+      },
+      {
+       "rank": 5,
+       "raw_text": "회복"
+      }
+     ]
+    },
+    {
+     "student_token": "068f22ac-9eb4-4781-a419-67efafefb257",
+     "submitted_at": "2026-09-02T00:29:59",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 2,
+       "raw_text": "2차 피해"
+      },
+      {
+       "rank": 3,
+       "raw_text": "피해규모"
+      },
+      {
+       "rank": 4,
+       "raw_text": "형사소송"
+      },
+      {
+       "rank": 5,
+       "raw_text": "고소"
+      },
+      {
+       "rank": 6,
+       "raw_text": "변호인"
+      },
+      {
+       "rank": 7,
+       "raw_text": "배상"
+      },
+      {
+       "rank": 8,
+       "raw_text": "피해자보호"
+      }
+     ]
+    },
+    {
+     "student_token": "c6498993-62bd-4e2c-863f-1553fc8a5f82",
+     "submitted_at": "2026-09-02T00:29:59",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 2,
+       "raw_text": "범죄"
+      },
+      {
+       "rank": 3,
+       "raw_text": "경찰"
+      },
+      {
+       "rank": 4,
+       "raw_text": "지원"
+      },
+      {
+       "rank": 5,
+       "raw_text": "피의자"
+      },
+      {
+       "rank": 6,
+       "raw_text": "피해"
+      },
+      {
+       "rank": 7,
+       "raw_text": "PTSD"
+      },
+      {
+       "rank": 8,
+       "raw_text": "치료"
+      },
+      {
+       "rank": 9,
        "raw_text": "가해"
+      }
+     ]
+    },
+    {
+     "student_token": "0c100d1e-c904-4b66-896b-4dc995265df6",
+     "submitted_at": "2026-09-02T00:30:01",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "범죄"
+      },
+      {
+       "rank": 2,
+       "raw_text": "고통"
+      },
+      {
+       "rank": 3,
+       "raw_text": "두려움"
+      },
+      {
+       "rank": 4,
+       "raw_text": "트라우마"
       },
       {
        "rank": 5,
        "raw_text": "보호"
+      },
+      {
+       "rank": 6,
+       "raw_text": "상처"
+      }
+     ]
+    },
+    {
+     "student_token": "4470e2bf-5c42-4f12-a9e9-889aa1fc1903",
+     "submitted_at": "2026-09-02T00:30:10",
+     "keywords": [
+      {
+       "rank": 1,
+       "raw_text": "트라우마"
+      },
+      {
+       "rank": 2,
+       "raw_text": "2차피해"
+      },
+      {
+       "rank": 3,
+       "raw_text": "고통"
+      },
+      {
+       "rank": 4,
+       "raw_text": "안전"
+      },
+      {
+       "rank": 5,
+       "raw_text": "권리"
+      },
+      {
+       "rank": 6,
+       "raw_text": "진술"
+      },
+      {
+       "rank": 7,
+       "raw_text": "회복"
+      },
+      {
+       "rank": 8,
+       "raw_text": "가해자"
+      },
+      {
+       "rank": 9,
+       "raw_text": "구제"
+      },
+      {
+       "rank": 10,
+       "raw_text": "제도"
       }
      ]
     }
